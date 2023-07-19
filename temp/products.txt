@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Lapicera Fina",
+    "description": "Lapicera trazo fino",
+    "price": 100,
+    "thumbnail": "lapicera001.jpg",
+    "code": "lap123",
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "title": "Lapicera Gruesa",
+    "description": "Lapicera trazo grueso",
+    "price": 50,
+    "thumbnail": "lapicera002.jpg",
+    "code": "lap124",
+    "stock": 10,
+    "id": 2
+  },
+  {
+    "title": "Lapicera Fina",
+    "description": "Lapicera trazo Fino",
+    "price": 20,
+    "thumbnail": "lapicera003.jpg",
+    "code": "lap125",
+    "stock": 10,
+    "id": 3
+  },
+  {
+    "title": "Lapicera Indeleble",
+    "description": "Lapicera indeleble",
+    "price": 40,
+    "thumbnail": "lapicera004.jpg",
+    "code": "lap126",
+    "stock": 10,
+    "id": 4
+  },
+  {
+    "title": "Lapicera Gel",
+    "description": "Lapicera de Gel",
+    "price": 10,
+    "thumbnail": "lapicera005.jpg",
+    "code": "lap127",
+    "stock": 10,
+    "id": 5
+  },
+  {
+    "title": "Lapicera Tinta China",
+    "description": "Lapicera con tinta china",
+    "price": 100,
+    "thumbnail": "lapicera006.jpg",
+    "code": "lap128",
+    "stock": 10,
+    "id": 6
+  },
+  {
+    "title": "Lapicera colores",
+    "description": "Lapicera 5 coleres",
+    "price": 100,
+    "thumbnail": "lapicera007.jpg",
+    "code": "lap129",
+    "stock": 10,
+    "id": 7
+  },
+  {
+    "title": "Lapicera Roja Gruesa",
+    "description": "Lapicera Roja grueso",
+    "price": 100,
+    "thumbnail": "lapicera008.jpg",
+    "code": "lap130",
+    "stock": 10,
+    "id": 8
+  },
+  {
+    "title": "Lapicera Roja Fina",
+    "description": "Lapicera Roja Fina",
+    "price": 100,
+    "thumbnail": "lapicera009.jpg",
+    "code": "lap131",
+    "stock": 10,
+    "id": 9
+  },
+  {
+    "title": "Lapicera Verde Fina",
+    "description": "Lapicera verde Fina",
+    "price": 100,
+    "thumbnail": "lapicera010.jpg",
+    "code": "lap132",
+    "stock": 10,
+    "id": 10
+  },
+  {
+    "title": "Lapicera verde Gruesa",
+    "description": "Lapicera verde Gruesa",
+    "price": 100,
+    "thumbnail": "lapicera011.jpg",
+    "code": "lap133",
+    "stock": 10,
+    "id": 11
+  }
+]
